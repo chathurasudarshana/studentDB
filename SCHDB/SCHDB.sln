@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SCH", "SCH\SCH.sqlproj", "{F02A0CC1-61E4-481C-8B68-16F642F70AA0}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SCHCore", "SCHCore\SCHCore.sqlproj", "{47BBECAA-7085-4B1A-B0F9-C19763CC8FE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F02A0CC1-61E4-481C-8B68-16F642F70AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02A0CC1-61E4-481C-8B68-16F642F70AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02A0CC1-61E4-481C-8B68-16F642F70AA0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F02A0CC1-61E4-481C-8B68-16F642F70AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02A0CC1-61E4-481C-8B68-16F642F70AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F02A0CC1-61E4-481C-8B68-16F642F70AA0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{47BBECAA-7085-4B1A-B0F9-C19763CC8FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BBECAA-7085-4B1A-B0F9-C19763CC8FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BBECAA-7085-4B1A-B0F9-C19763CC8FE5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{47BBECAA-7085-4B1A-B0F9-C19763CC8FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BBECAA-7085-4B1A-B0F9-C19763CC8FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47BBECAA-7085-4B1A-B0F9-C19763CC8FE5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {190C86D4-1581-4F1A-9521-53CE1EAE32E8}
+	EndGlobalSection
+EndGlobal
